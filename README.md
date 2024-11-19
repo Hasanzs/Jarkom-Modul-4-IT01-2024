@@ -25,6 +25,8 @@
 ### GNS3
 ![image](https://github.com/user-attachments/assets/0d43bd11-f334-4bb9-8318-5acb6e5b2427)
 
+#### Tree CIDR
+![image](aaaaaaa.png)
 
 ### Hasil Pembuatan Topologi IT01
 ### CPT
