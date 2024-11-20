@@ -29,5 +29,8 @@
 ![image](aaaaaaa.png)
 
 ### Hasil Pembuatan Topologi IT01
+
 ### CPT
+![topocpt](https://github.com/user-attachments/assets/7a06133e-ee1d-428e-a45d-2c19fe99075c)
+
 ### GNS3
